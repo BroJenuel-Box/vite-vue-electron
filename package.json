@@ -1,6 +1,6 @@
 {
   "name": "vite-vue-electron",
-  "author": "BroJenuel",
+  "author": "your-name",
   "version": "0.0.0",
   "main": "electron/electron.js",
   "scripts": {
